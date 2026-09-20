@@ -1,0 +1,261 @@
+[
+  {
+    "num": -37,
+    "label": "FOREWORD",
+    "title": "Foreword",
+    "start_page": 13,
+    "end_page": 15
+  },
+  {
+    "num": -36,
+    "label": "PRELUDE",
+    "title": "POISON TONGUE",
+    "start_page": 16,
+    "end_page": 19
+  },
+  {
+    "num": 1,
+    "label": "CHAPTER 1",
+    "title": "The Flimflam Man",
+    "start_page": 20,
+    "end_page": 28
+  },
+  {
+    "num": 2,
+    "label": "CHAPTER 2",
+    "title": "Fires of Revival",
+    "start_page": 29,
+    "end_page": 46
+  },
+  {
+    "num": 3,
+    "label": "CHAPTER 3",
+    "title": "Bound to Be Rich",
+    "start_page": 47,
+    "end_page": 67
+  },
+  {
+    "num": 4,
+    "label": "CHAPTER 4",
+    "title": "Baptism in Business",
+    "start_page": 68,
+    "end_page": 75
+  },
+  {
+    "num": 5,
+    "label": "CHAPTER 5",
+    "title": "The Auction",
+    "start_page": 76,
+    "end_page": 94
+  },
+  {
+    "num": 6,
+    "label": "CHAPTER 6",
+    "title": "The Poetry of the Age",
+    "start_page": 95,
+    "end_page": 112
+  },
+  {
+    "num": 7,
+    "label": "CHAPTER 7",
+    "title": "Millionaires\u2019 Row",
+    "start_page": 113,
+    "end_page": 120
+  },
+  {
+    "num": 8,
+    "label": "CHAPTER 8",
+    "title": "Conspirators",
+    "start_page": 121,
+    "end_page": 142
+  },
+  {
+    "num": 9,
+    "label": "CHAPTER 9",
+    "title": "The New Monarch",
+    "start_page": 143,
+    "end_page": 155
+  },
+  {
+    "num": 10,
+    "label": "CHAPTER 10",
+    "title": "Sphinx",
+    "start_page": 156,
+    "end_page": 163
+  },
+  {
+    "num": 11,
+    "label": "CHAPTER 11",
+    "title": "The Holy Family",
+    "start_page": 164,
+    "end_page": 174
+  },
+  {
+    "num": 12,
+    "label": "CHAPTER 12",
+    "title": "Insurrection in the Oil Fields",
+    "start_page": 175,
+    "end_page": 190
+  },
+  {
+    "num": 13,
+    "label": "CHAPTER 13",
+    "title": "Seat of Empire",
+    "start_page": 191,
+    "end_page": 211
+  },
+  {
+    "num": 14,
+    "label": "CHAPTER 14",
+    "title": "The Puppeteer",
+    "start_page": 212,
+    "end_page": 233
+  },
+  {
+    "num": 15,
+    "label": "CHAPTER 15",
+    "title": "Widow\u2019s Funeral",
+    "start_page": 234,
+    "end_page": 243
+  },
+  {
+    "num": 16,
+    "label": "CHAPTER 16",
+    "title": "A Matter of Trust",
+    "start_page": 244,
+    "end_page": 257
+  },
+  {
+    "num": 17,
+    "label": "CHAPTER 17",
+    "title": "Captains of Erudition",
+    "start_page": 258,
+    "end_page": 283
+  },
+  {
+    "num": 18,
+    "label": "CHAPTER 18",
+    "title": "Nemesis",
+    "start_page": 284,
+    "end_page": 296
+  },
+  {
+    "num": 19,
+    "label": "CHAPTER 19",
+    "title": "The Dauphin",
+    "start_page": 297,
+    "end_page": 307
+  },
+  {
+    "num": 20,
+    "label": "CHAPTER 20",
+    "title": "The Standard Oil Crowd",
+    "start_page": 308,
+    "end_page": 337
+  },
+  {
+    "num": 21,
+    "label": "CHAPTER 21",
+    "title": "The Enthusiast",
+    "start_page": 338,
+    "end_page": 360
+  },
+  {
+    "num": 22,
+    "label": "CHAPTER 22",
+    "title": "Avenging Angel",
+    "start_page": 361,
+    "end_page": 395
+  },
+  {
+    "num": 23,
+    "label": "CHAPTER 23",
+    "title": "Faith of Fools",
+    "start_page": 396,
+    "end_page": 407
+  },
+  {
+    "num": 24,
+    "label": "CHAPTER 24",
+    "title": "The Millionaires\u2019 Special",
+    "start_page": 408,
+    "end_page": 424
+  },
+  {
+    "num": 25,
+    "label": "CHAPTER 25",
+    "title": "The Codger",
+    "start_page": 425,
+    "end_page": 438
+  },
+  {
+    "num": 26,
+    "label": "CHAPTER 26",
+    "title": "The World\u2019s Richest Fugitive",
+    "start_page": 439,
+    "end_page": 453
+  },
+  {
+    "num": 27,
+    "label": "CHAPTER 27",
+    "title": "Judgment Day",
+    "start_page": 454,
+    "end_page": 472
+  },
+  {
+    "num": 28,
+    "label": "CHAPTER 28",
+    "title": "Benevolent Trust",
+    "start_page": 473,
+    "end_page": 480
+  },
+  {
+    "num": 29,
+    "label": "CHAPTER 29",
+    "title": "Massacre",
+    "start_page": 481,
+    "end_page": 497
+  },
+  {
+    "num": 30,
+    "label": "CHAPTER 30",
+    "title": "Introvert and Extrovert",
+    "start_page": 498,
+    "end_page": 511
+  },
+  {
+    "num": 31,
+    "label": "CHAPTER 31",
+    "title": "Confessional",
+    "start_page": 512,
+    "end_page": 521
+  },
+  {
+    "num": 32,
+    "label": "CHAPTER 32",
+    "title": "Dynastic Succession",
+    "start_page": 522,
+    "end_page": 529
+  },
+  {
+    "num": 33,
+    "label": "CHAPTER 33",
+    "title": "Past, Present, Future",
+    "start_page": 530,
+    "end_page": 543
+  },
+  {
+    "num": 34,
+    "label": "CHAPTER 34",
+    "title": "Heirs",
+    "start_page": 544,
+    "end_page": 554
+  },
+  {
+    "num": 35,
+    "label": "CHAPTER 35",
+    "title": "See You in Heaven",
+    "start_page": 555,
+    "end_page": 565
+  }
+]

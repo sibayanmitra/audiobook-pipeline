@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*-venv/
+.env
+*.pem
+*.key
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.npy
+*.npz
