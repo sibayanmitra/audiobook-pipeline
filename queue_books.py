@@ -41,7 +41,10 @@ def run(book: Path, *cmd: str) -> bool:
 
 def wait_for_cpu():
     announced = False
-    while subprocess.run(["pgrep", "-f", "audiobook_make.py"], capture_output=True).returncode == 0:
+    # anchor at the start of the command line: a shell that merely *mentions* audiobook_make.py
+    # (e.g. `bash -c "... pgrep -f audiobook_make.py"`) must not count as a running job
+    while subprocess.run(["pgrep", "-f", r"^\S*python\S* \S*audiobook_make\.py"],
+                         capture_output=True).returncode == 0:
         if not announced:
             log("waiting for the running audiobook_make.py to finish ...")
             announced = True
