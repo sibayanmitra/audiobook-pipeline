@@ -224,10 +224,18 @@ def resolve_wraps(text: str) -> str:
     return re.sub(r"([\w\u2019']+)" + WRAP + r"([\w\u2019']+)", pick, text)
 
 
+# OCR sometimes emits Cyrillic look-alikes for Latin letters (a speech engine would read them
+# as Russian). Applied after FIXUPS so explicit repairs above can still match the originals.
+CONFUSABLES = str.maketrans("\u0430\u0435\u043e\u0440\u0441\u0445\u0443\u0456\u0442\u043f\u041e\u041a\u041c\u041d\u0422",
+                            "aeopcxyitnOKMHT")
+
+
 def fix_paragraph(text: str) -> str:
     text = resolve_wraps(text).replace(WRAP, "")
     for pat, rep in FIXUPS:
         text = re.sub(pat, rep, text, flags=re.S)
+    text = text.translate(CONFUSABLES).replace("~", " ")
+    text = text.replace("[", "(").replace("]", ")")
     return re.sub(r"[ \t]{2,}", " ", text).strip()
 
 
