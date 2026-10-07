@@ -167,7 +167,7 @@ def check_audio():
                f"longest silence {longest:.1f}s")
 
     if am.FINAL_M4B.exists():
-        out = subprocess.run([am.find_tool("ffprobe"), "-v", "error", "-show_chapters",
+        out = subprocess.run([am.find_tool("ffprobe"), "-v", "error",
                               "-show_entries", "chapter=id", "-of", "csv=p=0", str(am.FINAL_M4B)],
                              capture_output=True, text=True).stdout.split()
         total = am.duration_s(am.FINAL_M4B)
