@@ -15,3 +15,14 @@ venv/
 *.ckpt
 *.npy
 *.npz
+
+# models, source books and generated output (never commit copyrighted text or audio)
+*.onnx
+voices-*.bin
+models/
+raw/
+audiobook/
+*.wav
+*.m4a
+*.m4b
+ogilvy_confessions/confessions.md

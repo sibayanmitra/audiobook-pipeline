@@ -1,0 +1,86 @@
+[
+  {
+    "num": 0,
+    "label": "Background",
+    "title": "Background",
+    "start_page": 2,
+    "end_page": 3
+  },
+  {
+    "num": 1,
+    "label": "Chapter 1",
+    "title": "How to Manage an Advertising Agency",
+    "start_page": 3,
+    "end_page": 7
+  },
+  {
+    "num": 2,
+    "label": "Chapter 2",
+    "title": "How to Get Clients",
+    "start_page": 7,
+    "end_page": 15
+  },
+  {
+    "num": 3,
+    "label": "Chapter 3",
+    "title": "How to Keep Clients",
+    "start_page": 15,
+    "end_page": 19
+  },
+  {
+    "num": 4,
+    "label": "Chapter 4",
+    "title": "How to Be a Good Client",
+    "start_page": 19,
+    "end_page": 23
+  },
+  {
+    "num": 5,
+    "label": "Chapter 5",
+    "title": "How to Build Great Campaigns",
+    "start_page": 23,
+    "end_page": 27
+  },
+  {
+    "num": 6,
+    "label": "Chapter 6",
+    "title": "How to Write Potent Copy",
+    "start_page": 27,
+    "end_page": 30
+  },
+  {
+    "num": 7,
+    "label": "Chapter 7",
+    "title": "How to Illustrate Advertisements and Posters",
+    "start_page": 30,
+    "end_page": 33
+  },
+  {
+    "num": 8,
+    "label": "Chapter 8",
+    "title": "How to Make Good Television Commercials",
+    "start_page": 33,
+    "end_page": 35
+  },
+  {
+    "num": 9,
+    "label": "Chapter 9",
+    "title": "How to Make Good Campaigns for Food Products, Tourist Destinations and Proprietary Medicines",
+    "start_page": 35,
+    "end_page": 37
+  },
+  {
+    "num": 10,
+    "label": "Chapter 10",
+    "title": "How to Rise to the Top of the Tree (Advice to the Young)",
+    "start_page": 37,
+    "end_page": 39
+  },
+  {
+    "num": 11,
+    "label": "Chapter 11",
+    "title": "Should Advertising Be Abolished?",
+    "start_page": 39,
+    "end_page": 42
+  }
+]
