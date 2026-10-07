@@ -1,6 +1,6 @@
 # Audiobook Pipeline
 
-Scripts for turning PDF books into audiobooks: PDF → markdown → chunked text → TTS.
+Scripts for turning PDF books into audiobooks (CPU-only quick start for Intel machines: see [INTEL_CPU.md](INTEL_CPU.md)): PDF → markdown → chunked text → TTS.
 
 ## Stages
 
