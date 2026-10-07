@@ -1,0 +1,142 @@
+[
+  {
+    "num": 0,
+    "label": "Preface",
+    "title": "Preface",
+    "start_page": 5,
+    "end_page": 5
+  },
+  {
+    "num": 1,
+    "label": "Chapter 1",
+    "title": "Early Influences",
+    "start_page": 6,
+    "end_page": 14
+  },
+  {
+    "num": 2,
+    "label": "Chapter 2",
+    "title": "Lessons In Advertising And Selling",
+    "start_page": 15,
+    "end_page": 22
+  },
+  {
+    "num": 3,
+    "label": "Chapter 3",
+    "title": "My Start In Business",
+    "start_page": 23,
+    "end_page": 29
+  },
+  {
+    "num": 4,
+    "label": "Chapter 4",
+    "title": "How I Got My Start In Advertising",
+    "start_page": 30,
+    "end_page": 38
+  },
+  {
+    "num": 5,
+    "label": "Chapter 5",
+    "title": "Larger Fields",
+    "start_page": 39,
+    "end_page": 47
+  },
+  {
+    "num": 6,
+    "label": "Chapter 6",
+    "title": "Personal Salesmanship",
+    "start_page": 48,
+    "end_page": 54
+  },
+  {
+    "num": 7,
+    "label": "Chapter 7",
+    "title": "Medical Advertising",
+    "start_page": 55,
+    "end_page": 62
+  },
+  {
+    "num": 8,
+    "label": "Chapter 8",
+    "title": "My Liquozone Experience",
+    "start_page": 63,
+    "end_page": 69
+  },
+  {
+    "num": 9,
+    "label": "Chapter 9",
+    "title": "The Start Of My Seventeen Years With An Advertising Agency",
+    "start_page": 70,
+    "end_page": 77
+  },
+  {
+    "num": 10,
+    "label": "Chapter 10",
+    "title": "Automobile Advertising",
+    "start_page": 78,
+    "end_page": 86
+  },
+  {
+    "num": 11,
+    "label": "Chapter 11",
+    "title": "Tire Advertising",
+    "start_page": 87,
+    "end_page": 92
+  },
+  {
+    "num": 12,
+    "label": "Chapter 12",
+    "title": "Early History Of Palmolive",
+    "start_page": 93,
+    "end_page": 100
+  },
+  {
+    "num": 13,
+    "label": "Chapter 13",
+    "title": "Puffed Grains And Quaker Oats",
+    "start_page": 101,
+    "end_page": 106
+  },
+  {
+    "num": 14,
+    "label": "Chapter 14",
+    "title": "Pepsodent",
+    "start_page": 107,
+    "end_page": 110
+  },
+  {
+    "num": 15,
+    "label": "Chapter 15",
+    "title": "Some Mail-Order Experiences",
+    "start_page": 111,
+    "end_page": 117
+  },
+  {
+    "num": 16,
+    "label": "Chapter 16",
+    "title": "Reasons For Success",
+    "start_page": 118,
+    "end_page": 123
+  },
+  {
+    "num": 17,
+    "label": "Chapter 17",
+    "title": "Scientific Advertising",
+    "start_page": 124,
+    "end_page": 132
+  },
+  {
+    "num": 18,
+    "label": "Chapter 18",
+    "title": "My Great Mistake",
+    "start_page": 133,
+    "end_page": 138
+  },
+  {
+    "num": 19,
+    "label": "Chapter 19",
+    "title": "Some Things Personal",
+    "start_page": 139,
+    "end_page": 143
+  }
+]
