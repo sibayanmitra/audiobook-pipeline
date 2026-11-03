@@ -1,0 +1,79 @@
+[
+  {
+    "num": 0,
+    "label": "Introduction",
+    "title": "Introduction",
+    "start_page": 6,
+    "end_page": 7
+  },
+  {
+    "num": 1,
+    "label": "Chapter 1: From Communist to Venture Capitalist",
+    "title": "Chapter 1: From Communist to Venture Capitalist",
+    "start_page": 8,
+    "end_page": 20
+  },
+  {
+    "num": 2,
+    "label": "Chapter 2: \u201cI Will Survive\u201d",
+    "title": "Chapter 2: \u201cI Will Survive\u201d",
+    "start_page": 21,
+    "end_page": 37
+  },
+  {
+    "num": 3,
+    "label": "Chapter 3: This Time with Feeling",
+    "title": "Chapter 3: This Time with Feeling",
+    "start_page": 38,
+    "end_page": 51
+  },
+  {
+    "num": 4,
+    "label": "Chapter 4: When Things Fall Apart",
+    "title": "Chapter 4: When Things Fall Apart",
+    "start_page": 52,
+    "end_page": 81
+  },
+  {
+    "num": 5,
+    "label": "Chapter 5: Take Care of the People, the Products, and the Profits\u2014in That Order",
+    "title": "Chapter 5: Take Care of the People, the Products, and the Profits\u2014in That Order",
+    "start_page": 82,
+    "end_page": 125
+  },
+  {
+    "num": 6,
+    "label": "Chapter 6: Concerning the Going Concern",
+    "title": "Chapter 6: Concerning the Going Concern",
+    "start_page": 126,
+    "end_page": 163
+  },
+  {
+    "num": 7,
+    "label": "Chapter 7: How to Lead Even When You Don\u2019t Know Where You Are Going",
+    "title": "Chapter 7: How to Lead Even When You Don\u2019t Know Where You Are Going",
+    "start_page": 164,
+    "end_page": 199
+  },
+  {
+    "num": 8,
+    "label": "Chapter 8: First Rule of Entrepreneurship: There Are No Rules",
+    "title": "Chapter 8: First Rule of Entrepreneurship: There Are No Rules",
+    "start_page": 200,
+    "end_page": 216
+  },
+  {
+    "num": 9,
+    "label": "Chapter 9: The End of the Beginning",
+    "title": "Chapter 9: The End of the Beginning",
+    "start_page": 217,
+    "end_page": 225
+  },
+  {
+    "num": 10,
+    "label": "Appendix: Questions for Head of Enterprise Sales Force",
+    "title": "Appendix: Questions for Head of Enterprise Sales Force",
+    "start_page": 226,
+    "end_page": 233
+  }
+]

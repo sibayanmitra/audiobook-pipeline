@@ -1,0 +1,128 @@
+[
+  {
+    "num": 1,
+    "label": "Chapter 1",
+    "title": "Chapter 1",
+    "start_page": 3,
+    "end_page": 24
+  },
+  {
+    "num": 2,
+    "label": "Chapter 2",
+    "title": "Chapter 2",
+    "start_page": 24,
+    "end_page": 40
+  },
+  {
+    "num": 3,
+    "label": "Chapter 3",
+    "title": "Chapter 3",
+    "start_page": 40,
+    "end_page": 56
+  },
+  {
+    "num": 4,
+    "label": "Chapter 4",
+    "title": "Chapter 4",
+    "start_page": 56,
+    "end_page": 74
+  },
+  {
+    "num": 5,
+    "label": "Chapter 5",
+    "title": "Chapter 5",
+    "start_page": 74,
+    "end_page": 79
+  },
+  {
+    "num": 6,
+    "label": "Chapter 6",
+    "title": "Chapter 6",
+    "start_page": 79,
+    "end_page": 91
+  },
+  {
+    "num": 7,
+    "label": "Chapter 7",
+    "title": "Chapter 7",
+    "start_page": 91,
+    "end_page": 111
+  },
+  {
+    "num": 8,
+    "label": "Chapter 8",
+    "title": "Chapter 8",
+    "start_page": 111,
+    "end_page": 144
+  },
+  {
+    "num": 9,
+    "label": "Chapter 9",
+    "title": "Chapter 9",
+    "start_page": 144,
+    "end_page": 175
+  },
+  {
+    "num": 10,
+    "label": "Chapter 10",
+    "title": "Chapter 10",
+    "start_page": 175,
+    "end_page": 189
+  },
+  {
+    "num": 11,
+    "label": "Chapter 11",
+    "title": "Chapter 11",
+    "start_page": 189,
+    "end_page": 233
+  },
+  {
+    "num": 12,
+    "label": "Chapter 12",
+    "title": "Chapter 12",
+    "start_page": 233,
+    "end_page": 255
+  },
+  {
+    "num": 13,
+    "label": "Chapter 13",
+    "title": "Chapter 13",
+    "start_page": 255,
+    "end_page": 266
+  },
+  {
+    "num": 14,
+    "label": "Chapter 14",
+    "title": "Chapter 14",
+    "start_page": 266,
+    "end_page": 280
+  },
+  {
+    "num": 15,
+    "label": "Chapter 15",
+    "title": "Chapter 15",
+    "start_page": 280,
+    "end_page": 305
+  },
+  {
+    "num": 16,
+    "label": "Chapter 16",
+    "title": "Chapter 16",
+    "start_page": 305,
+    "end_page": 320
+  },
+  {
+    "num": 17,
+    "label": "Chapter 17",
+    "title": "Chapter 17",
+    "start_page": 320,
+    "end_page": 330
+  },
+  {
+    "num": 18,
+    "label": "Chapter 18",
+    "title": "Chapter 18",
+    "start_page": 330,
+    "end_page": 356
+  }
+]
