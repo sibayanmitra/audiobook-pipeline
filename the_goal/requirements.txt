@@ -1,0 +1,5 @@
+pymupdf
+pyspellchecker
+kokoro-onnx
+soundfile
+numpy

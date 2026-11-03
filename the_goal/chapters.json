@@ -1,0 +1,310 @@
+[
+  {
+    "num": 0,
+    "label": "Introduction",
+    "title": "Introduction",
+    "start_page": 11,
+    "end_page": 13
+  },
+  {
+    "num": 0,
+    "label": "Introduction to the First Edition",
+    "title": "Introduction to the First Edition",
+    "start_page": 14,
+    "end_page": 17
+  },
+  {
+    "num": 1,
+    "label": "Chapter 1",
+    "title": "Chapter 1",
+    "start_page": 18,
+    "end_page": 26
+  },
+  {
+    "num": 2,
+    "label": "Chapter 2",
+    "title": "Chapter 2",
+    "start_page": 27,
+    "end_page": 36
+  },
+  {
+    "num": 3,
+    "label": "Chapter 3",
+    "title": "Chapter 3",
+    "start_page": 37,
+    "end_page": 41
+  },
+  {
+    "num": 4,
+    "label": "Chapter 4",
+    "title": "Chapter 4",
+    "start_page": 42,
+    "end_page": 49
+  },
+  {
+    "num": 5,
+    "label": "Chapter 5",
+    "title": "Chapter 5",
+    "start_page": 50,
+    "end_page": 57
+  },
+  {
+    "num": 6,
+    "label": "Chapter 6",
+    "title": "Chapter 6",
+    "start_page": 58,
+    "end_page": 67
+  },
+  {
+    "num": 7,
+    "label": "Chapter 7",
+    "title": "Chapter 7",
+    "start_page": 68,
+    "end_page": 69
+  },
+  {
+    "num": 8,
+    "label": "Chapter 8",
+    "title": "Chapter 8",
+    "start_page": 70,
+    "end_page": 76
+  },
+  {
+    "num": 9,
+    "label": "Chapter 9",
+    "title": "Chapter 9",
+    "start_page": 77,
+    "end_page": 86
+  },
+  {
+    "num": 10,
+    "label": "Chapter 10",
+    "title": "Chapter 10",
+    "start_page": 87,
+    "end_page": 93
+  },
+  {
+    "num": 11,
+    "label": "Chapter 11",
+    "title": "Chapter 11",
+    "start_page": 94,
+    "end_page": 103
+  },
+  {
+    "num": 12,
+    "label": "Chapter 12",
+    "title": "Chapter 12",
+    "start_page": 104,
+    "end_page": 107
+  },
+  {
+    "num": 13,
+    "label": "Chapter 13",
+    "title": "Chapter 13",
+    "start_page": 108,
+    "end_page": 116
+  },
+  {
+    "num": 14,
+    "label": "Chapter 14",
+    "title": "Chapter 14",
+    "start_page": 117,
+    "end_page": 127
+  },
+  {
+    "num": 15,
+    "label": "Chapter 15",
+    "title": "Chapter 15",
+    "start_page": 128,
+    "end_page": 134
+  },
+  {
+    "num": 16,
+    "label": "Chapter 16",
+    "title": "Chapter 16",
+    "start_page": 135,
+    "end_page": 138
+  },
+  {
+    "num": 17,
+    "label": "Chapter 17",
+    "title": "Chapter 17",
+    "start_page": 139,
+    "end_page": 150
+  },
+  {
+    "num": 18,
+    "label": "Chapter 18",
+    "title": "Chapter 18",
+    "start_page": 151,
+    "end_page": 162
+  },
+  {
+    "num": 19,
+    "label": "Chapter 19",
+    "title": "Chapter 19",
+    "start_page": 163,
+    "end_page": 174
+  },
+  {
+    "num": 20,
+    "label": "Chapter 20",
+    "title": "Chapter 20",
+    "start_page": 175,
+    "end_page": 182
+  },
+  {
+    "num": 21,
+    "label": "Chapter 21",
+    "title": "Chapter 21",
+    "start_page": 183,
+    "end_page": 191
+  },
+  {
+    "num": 22,
+    "label": "Chapter 22",
+    "title": "Chapter 22",
+    "start_page": 192,
+    "end_page": 196
+  },
+  {
+    "num": 23,
+    "label": "Chapter 23",
+    "title": "Chapter 23",
+    "start_page": 197,
+    "end_page": 205
+  },
+  {
+    "num": 24,
+    "label": "Chapter 24",
+    "title": "Chapter 24",
+    "start_page": 206,
+    "end_page": 212
+  },
+  {
+    "num": 25,
+    "label": "Chapter 25",
+    "title": "Chapter 25",
+    "start_page": 213,
+    "end_page": 221
+  },
+  {
+    "num": 26,
+    "label": "Chapter 26",
+    "title": "Chapter 26",
+    "start_page": 222,
+    "end_page": 228
+  },
+  {
+    "num": 27,
+    "label": "Chapter 27",
+    "title": "Chapter 27",
+    "start_page": 229,
+    "end_page": 236
+  },
+  {
+    "num": 28,
+    "label": "Chapter 28",
+    "title": "Chapter 28",
+    "start_page": 237,
+    "end_page": 243
+  },
+  {
+    "num": 29,
+    "label": "Chapter 29",
+    "title": "Chapter 29",
+    "start_page": 244,
+    "end_page": 252
+  },
+  {
+    "num": 30,
+    "label": "Chapter 30",
+    "title": "Chapter 30",
+    "start_page": 253,
+    "end_page": 262
+  },
+  {
+    "num": 31,
+    "label": "Chapter 31",
+    "title": "Chapter 31",
+    "start_page": 263,
+    "end_page": 268
+  },
+  {
+    "num": 32,
+    "label": "Chapter 32",
+    "title": "Chapter 32",
+    "start_page": 269,
+    "end_page": 273
+  },
+  {
+    "num": 33,
+    "label": "Chapter 33",
+    "title": "Chapter 33",
+    "start_page": 274,
+    "end_page": 282
+  },
+  {
+    "num": 34,
+    "label": "Chapter 34",
+    "title": "Chapter 34",
+    "start_page": 283,
+    "end_page": 288
+  },
+  {
+    "num": 35,
+    "label": "Chapter 35",
+    "title": "Chapter 35",
+    "start_page": 289,
+    "end_page": 294
+  },
+  {
+    "num": 36,
+    "label": "Chapter 36",
+    "title": "Chapter 36",
+    "start_page": 295,
+    "end_page": 302
+  },
+  {
+    "num": 37,
+    "label": "Chapter 37",
+    "title": "Chapter 37",
+    "start_page": 303,
+    "end_page": 308
+  },
+  {
+    "num": 38,
+    "label": "Chapter 38",
+    "title": "Chapter 38",
+    "start_page": 309,
+    "end_page": 317
+  },
+  {
+    "num": 39,
+    "label": "Chapter 39",
+    "title": "Chapter 39",
+    "start_page": 318,
+    "end_page": 325
+  },
+  {
+    "num": 40,
+    "label": "Chapter 40",
+    "title": "Chapter 40",
+    "start_page": 326,
+    "end_page": 334
+  },
+  {
+    "num": 0,
+    "label": "Standing on the Shoulders of Giants",
+    "title": "Standing on the Shoulders of Giants",
+    "start_page": 335,
+    "end_page": 357
+  },
+  {
+    "num": 0,
+    "label": "Five Focusing Steps",
+    "title": "Five Focusing Steps",
+    "start_page": 358,
+    "end_page": 358
+  }
+]
