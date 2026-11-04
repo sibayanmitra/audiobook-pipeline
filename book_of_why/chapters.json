@@ -1,0 +1,74 @@
+[
+  {
+    "num": 0,
+    "title": "Preface",
+    "start_page": 7,
+    "end_page": 8
+  },
+  {
+    "num": 1,
+    "title": "Introduction: Mind over Data",
+    "start_page": 9,
+    "end_page": 26
+  },
+  {
+    "num": 2,
+    "title": "Chapter 1: The Ladder of Causation",
+    "start_page": 27,
+    "end_page": 57
+  },
+  {
+    "num": 3,
+    "title": "Chapter 2: From Buccaneers to Guinea Pigs: The Genesis of Causal Inference",
+    "start_page": 58,
+    "end_page": 91
+  },
+  {
+    "num": 4,
+    "title": "Chapter 3: From Evidence to Causes: Reverend Bayes Meets Mr. Holmes",
+    "start_page": 92,
+    "end_page": 129
+  },
+  {
+    "num": 5,
+    "title": "Chapter 4: Confounding and Deconfounding: Or, Slaying the Lurking Variable",
+    "start_page": 130,
+    "end_page": 156
+  },
+  {
+    "num": 6,
+    "title": "Chapter 5: The Smoke-Filled Debate: Clearing the Air",
+    "start_page": 157,
+    "end_page": 176
+  },
+  {
+    "num": 7,
+    "title": "Chapter 6: Paradoxes Galore!",
+    "start_page": 177,
+    "end_page": 202
+  },
+  {
+    "num": 8,
+    "title": "Chapter 7: Beyond Adjustment: The Conquest of Mount Intervention",
+    "start_page": 203,
+    "end_page": 235
+  },
+  {
+    "num": 9,
+    "title": "Chapter 8: Counterfactuals: Mining Worlds That Could Have Been",
+    "start_page": 236,
+    "end_page": 272
+  },
+  {
+    "num": 10,
+    "title": "Chapter 9: Mediation: The Search for a Mechanism",
+    "start_page": 273,
+    "end_page": 313
+  },
+  {
+    "num": 11,
+    "title": "Chapter 10: Big Data, Artificial Intelligence, and the Big Questions",
+    "start_page": 314,
+    "end_page": 332
+  }
+]
